@@ -1,5 +1,6 @@
 ---
 marp: true
+math: mathjax
 ---
 
 # Модель боевых действий
